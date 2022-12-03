@@ -1,0 +1,4 @@
+Number,Valid/Invalid,Type,Carrier
++12123123123,Valid,FIXED_LINE_OR_MOBILE,Unknown
++12345787889,Valid,FIXED_LINE_OR_MOBILE,Unknown
++12009348948,Invalid
